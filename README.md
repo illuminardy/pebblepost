@@ -29,6 +29,7 @@ graph TD
 ## Quick Start
 
 ```bash
+npm install
 docker compose up --build
 ```
 

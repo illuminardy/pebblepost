@@ -1,0 +1,42 @@
+.app-header {
+  background: linear-gradient(135deg, var(--color-primary), var(--color-primary-light));
+  color: #fff;
+  padding: 20px 0;
+  margin-bottom: 32px;
+}
+
+.app-header-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.app-header h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.app-header h1 a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.app-header h1 a:hover {
+  text-decoration: none;
+  opacity: 0.9;
+}
+
+.app-header p {
+  font-size: 0.875rem;
+  opacity: 0.75;
+}
+
+.app-main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 24px 48px;
+}

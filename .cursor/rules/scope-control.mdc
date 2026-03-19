@@ -1,0 +1,11 @@
+---
+description: Timeboxing and scope control guidelines for the URL Shortener project
+alwaysApply: true
+---
+
+# Scope Control
+
+- Target 8 hours of effort. Favor an end-to-end vertical slice (a couple of key flows finished well) over breadth.
+- Keep UI styling simple; focus on clarity, validation, empty states, and errors.
+- Prefer pragmatic solutions: small migrations, a handful of endpoints, minimal dependencies.
+- Note any intentional simplifications in the README.
